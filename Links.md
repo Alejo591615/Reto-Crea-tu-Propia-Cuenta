@@ -1,4 +1,4 @@
-Links de material de studio
+#Links de material de studio
 - [Comandos de la terminal](https://platzi.com/blog/41-comandos-terminal/)
 - [Introducción a Git](https://docs.github.com/es/get-started/start-your-journey)
 - [GitHu Desktop](https://docs.github.com/es/desktop)
